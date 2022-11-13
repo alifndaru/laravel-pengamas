@@ -19,4 +19,4 @@ DB_USERNAME=root <br>
 DB_PASSWORD=root <br>
 
 <br>
-jalankan composer install note harus sudah terinstall composer
+jalankan composer install (note harus sudah terinstall composer)
