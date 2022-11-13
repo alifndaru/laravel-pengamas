@@ -20,3 +20,4 @@ DB_PASSWORD=root <br>
 
 <br>
 jalankan composer install (note harus sudah terinstall composer)
+jalan kan php artisan:migrate atau export file sql yang sudah ada di dalam repo
